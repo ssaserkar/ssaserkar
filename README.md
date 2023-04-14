@@ -1,7 +1,7 @@
 # Hi there, I'm Soham Aserkar! 👋
 Master's Student in Robotics at Worcester Polytechnic Institute, USA.
 
-- 🌱 I’m currently learning and applying Deep Learning concepts to perform Policy analysis and implement SysML Models for generating Fault Trees and FMEAs in the policy documents.
+- 🌱 I'm currently using NLP techniques, including BERT and XLNet, to detect policy toxicity in policy documents and applying deep learning concepts to perform policy analysis.
 - 👀 I’m interested in Robotics, Control, Perception, NLP, and Computer Vision.
 - 💞️ I’m looking to collaborate on projects related to my interests!
 - 📫 You can reach me at ssaserkar@wpi.edu!
