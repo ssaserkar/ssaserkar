@@ -9,32 +9,19 @@ Master's Student in Robotics at Worcester Polytechnic Institute, USA.
 
 ## Tech Stack
 
+| Software Skills | Hardware Skills |
+| :---: | :---: |
+| Python3, C/C++ | Control Systems: Motion Planning, Robot Control, Robot Dynamics |
+| TensorFlow, PyTorch | Electronics Design: Vector CAN, Altium, Autodesk EAGLE |
+| ROS/2/Gazebo | Sensor Fusion: LiDAR, Camera, IMU, GPS |
+| MATLAB | Robot Platforms: daVinci Research Kit (dVRK), Autonomous Quadruped, Holonomic Drive |
+| Vector CAN | |
+| Altium, Autodesk EAGLE | |
+| COMSOL | |
+
 <p align="center">
-  <img height="60" src="https://img.icons8.com/color/96/000000/python.png">&nbsp;&nbsp;
-  <img height="60" src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png">&nbsp;&nbsp;
-  <img height="60" src="https://img.icons8.com/color/96/000000/tensorflow.png">&nbsp;&nbsp;
-  <img height="60" src="https://img.icons8.com/color/96/000000/pytorch.png">&nbsp;&nbsp;
-  <img height="60" src="https://img.icons8.com/color/96/000000/ros.png">&nbsp;&nbsp;
-  <img height="60" src="https://img.icons8.com/color/96/000000/matlab.png">&nbsp;&nbsp;
-  <img height="60" src="https://img.icons8.com/color/96/000000/vector.png">&nbsp;&nbsp;
-  <img height="60" src="https://img.icons8.com/color/96/000000/altium.png">&nbsp;&nbsp;
-  <img height="60" src="https://img.icons8.com/color/96/000000/comsol.png">&nbsp;&nbsp;
+  <em>Icons made by <a href="https://icons8.com">Icons8</a></em>
 </p>
-
-### Software Skills
-- Python3, C/C++
-- TensorFlow, PyTorch
-- ROS/2/Gazebo
-- MATLAB
-- Vector CAN
-- Altium, Autodesk EAGLE
-- COMSOL
-
-### Hardware Skills
-- Control Systems: Motion Planning, Robot Control, Robot Dynamics
-- Electronics Design: Vector CAN, Altium, Autodesk EAGLE
-- Sensor Fusion: LiDAR, Camera, IMU, GPS
-- Robot Platforms: daVinci Research Kit (dVRK), Autonomous Quadruped, Holonomic Drive
 
 
 ## Projects
