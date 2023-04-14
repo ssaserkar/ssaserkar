@@ -1,11 +1,26 @@
-- 👋 Hi, I’m Soham Aserkar! Master's Student in Robotics at Worcester Polytechnic Institute, USA.
-- 👀 I’m interested in all forms of Robitics involving control, perception, natural language processing and computer vision.
-- 🌱 I’m currently doing Deep Learning and applying its concepts to perform Policy analysis and implement SysML Models for generating Fault Trees and FMEAs in the policy documents.
-- 💞️ I’m looking to collaborate on projects related to my interests!
-- 📫 You can reach me at ssaserkar@wpi.edu!
+## Hi there! I'm Soham Aserkar 👋
 
-<!---
-ssaserkar/ssaserkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![Soham Aserkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssaserkar)](https://github.com/anuraghazra/github-readme-stats)
+I'm a Robotics Master's student at Worcester Polytechnic Institute with a passion for control, perception, natural language processing, and computer vision. Currently, I am exploring deep learning concepts to perform policy analysis and implement SysML Models. I'm always looking to collaborate on projects related to my interests!
+
+### 🛠️ Tech Stack
+#### Technical Software Skills:
+Python3 | C/C++ | TensorFlow, PyTorch | ROS/2/Gazebo | MATLAB
+
+#### Hardware Skills:
+Vector CAN | Altium, Autodesk EAGLE | COMSOL
+
+### 🚀 Projects
+- Panoptic Segmentation on 3D LiDAR Point Cloud Data
+- Semantic Segmentation-based Automation of dVRK Endoscope
+- Development of a Delta Wing Glider prototype as a payload
+- Autonomous Quadruped and 3-wheel Holonomic Drive
+- Sensors and Localization for a 4-wheel Holonomic Drive
+
+### 💼 Experience
+- Graduate Research Assistant | SMERL | WPI | Worcester, USA
+- Associate Engineer | Verification and Validation | Eaton | Pune, India
+
+### 📫 Contact Me
+- Email: ssaserkar@wpi.edu
+- LinkedIn: [Soham Aserkar](https://www.linkedin.com/in/soham-aserkar/)
+- GitHub: [ssaserkar](https://github.com/ssaserkar)
