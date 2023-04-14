@@ -9,6 +9,18 @@ Master's Student in Robotics at Worcester Polytechnic Institute, USA.
 
 ## Tech Stack
 
+<p align="center">
+  <img height="60" src="https://img.icons8.com/color/96/000000/python.png">&nbsp;&nbsp;
+  <img height="60" src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png">&nbsp;&nbsp;
+  <img height="60" src="https://img.icons8.com/color/96/000000/tensorflow.png">&nbsp;&nbsp;
+  <img height="60" src="https://img.icons8.com/color/96/000000/pytorch.png">&nbsp;&nbsp;
+  <img height="60" src="https://img.icons8.com/color/96/000000/ros.png">&nbsp;&nbsp;
+  <img height="60" src="https://img.icons8.com/color/96/000000/matlab.png">&nbsp;&nbsp;
+  <img height="60" src="https://img.icons8.com/color/96/000000/vector.png">&nbsp;&nbsp;
+  <img height="60" src="https://img.icons8.com/color/96/000000/altium.png">&nbsp;&nbsp;
+  <img height="60" src="https://img.icons8.com/color/96/000000/comsol.png">&nbsp;&nbsp;
+</p>
+
 ### Software Skills
 - Python3, C/C++
 - TensorFlow, PyTorch
@@ -23,6 +35,7 @@ Master's Student in Robotics at Worcester Polytechnic Institute, USA.
 - Electronics Design: Vector CAN, Altium, Autodesk EAGLE
 - Sensor Fusion: LiDAR, Camera, IMU, GPS
 - Robot Platforms: daVinci Research Kit (dVRK), Autonomous Quadruped, Holonomic Drive
+
 
 ## Projects
 
