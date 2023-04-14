@@ -1,4 +1,3 @@
-
 # Hi there, I'm Soham Aserkar! 👋
 Master's Student in Robotics at Worcester Polytechnic Institute, USA.
 
@@ -9,7 +8,7 @@ Master's Student in Robotics at Worcester Polytechnic Institute, USA.
 
 ## Tech Stack
 
-![Python](https://img.icons8.com/color/48/000000/python.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png) ![PyTorch](https://img.icons8.com/color/48/000000/pytorch.png) ![ROS](https://img.icons8.com/color/48/000000/ros.png) ![MATLAB](https://img.icons8.com/color/48/000000/matlab.png) ![Vector CAN](https://img.icons8.com/color/48/000000/vector.png) ![Altium](https://img.icons8.com/color/48/000000/altium.png) ![COMSOL](https://img.icons8.com/color/48/000000/comsol.png)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![ROS](https://img.shields.io/badge/-ROS-22314E?logo=ros&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white) ![Vector CAN](https://img.shields.io/badge/-Vector%20CAN-007ACC?logo=vector&logoColor=white) ![Altium](https://img.shields.io/badge/-Altium-FF5733?logo=altium-designer&logoColor=white) ![COMSOL](https://img.shields.io/badge/-COMSOL-ED1C24?logo=comsol&logoColor=white)
 
 ### Software Skills
 - Python3, C/C++
@@ -42,7 +41,3 @@ Master's Student in Robotics at Worcester Polytechnic Institute, USA.
 - Associate Engineer | Verification and Validation | Eaton | Pune, India
 - Electronics Design Intern | IUCAA | LIGO | Pune, India
 - Machine Learning Intern | Predictive Maintenance | C-DAC | Pune, India
-
-[![Soham Aserkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssaserkar&show_icons=true&theme=radical)](https://github.com/ssaserkar)
-
-Connect with me on [LinkedIn](https://www.linkedin.com/in/ssaserkar/) and check out my other projects on [GitHub](https://github.com/ssaserkar)!
