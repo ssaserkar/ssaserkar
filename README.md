@@ -35,7 +35,7 @@ Master's Student in Robotics at Worcester Polytechnic Institute, USA.
 - **Autonomous Quadruped and 3-wheel Holonomic Drive** | External Mentor | MIT-COE
 
 ## Experience
-- Graduate Research Assistant | SMERL | WPI | Worcester, USA
+- Graduate Research Assistant | [SMERL](https://wp.wpi.edu/smerl/) | WPI | Worcester, USA
 - Associate Engineer | Verification and Validation | Eaton | Pune, India
 - Electronics Design Intern | IUCAA | LIGO | Pune, India
 - Machine Learning Intern | Predictive Maintenance | C-DAC | Pune, India
