@@ -1,4 +1,3 @@
-![Header](https://i.imgur.com/KGByjjH.png)
 
 # Hi there, I'm Soham Aserkar! 👋
 Master's Student in Robotics at Worcester Polytechnic Institute, USA.
