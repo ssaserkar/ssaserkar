@@ -25,6 +25,11 @@ Master's Student in Robotics at Worcester Polytechnic Institute, USA.
 - Sensor Fusion: LiDAR, Camera, IMU, GPS
 - Robot Platforms: daVinci Research Kit (dVRK), Autonomous Quadruped, Holonomic Drive
 
+## Experience
+- Graduate Research Assistant | [SMERL](https://wp.wpi.edu/smerl/) | WPI | Worcester, USA
+- Associate Engineer | Verification and Validation | Eaton | Pune, India
+- Electronics Design Intern | IUCAA | LIGO | Pune, India
+- Machine Learning Intern | Predictive Maintenance | C-DAC | Pune, India
 
 ## Projects
 
@@ -35,9 +40,3 @@ Master's Student in Robotics at Worcester Polytechnic Institute, USA.
 ### Robotics and Electronics Design
 - **Development of a Delta Wing Glider prototype as a payload** | Team Lead | MIT-COE
 - **Autonomous Quadruped and 3-wheel Holonomic Drive** | External Mentor | MIT-COE
-
-## Experience
-- Graduate Research Assistant | [SMERL](https://wp.wpi.edu/smerl/) | WPI | Worcester, USA
-- Associate Engineer | Verification and Validation | Eaton | Pune, India
-- Electronics Design Intern | IUCAA | LIGO | Pune, India
-- Machine Learning Intern | Predictive Maintenance | C-DAC | Pune, India
