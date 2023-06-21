@@ -27,9 +27,9 @@ Master's Student in Robotics at Worcester Polytechnic Institute, USA.
 
 ## Experience
 - Graduate Research Assistant | [SMERL](https://wp.wpi.edu/smerl/) | WPI | Worcester, USA
-- Associate Engineer | Verification and Validation | Eaton | Pune, India
-- Electronics Design Intern | IUCAA | LIGO | Pune, India
-- Machine Learning Intern | Predictive Maintenance | C-DAC | Pune, India
+- Associate Engineer | Verification and Validation | [Eaton](http://www.eaton.in/in/en-us/company/about-us/eaton-in-india.html) | Pune, India
+- Electronics Design Intern | [IUCAA](https://www.iucaa.in/en/) | [LIGO](https://www.ligo.org/) | Pune, India
+- Machine Learning Intern | Predictive Maintenance | Artificial Intelligence Group, C-DAC (https://cdac.in/index.aspx?id=about) | Pune, India
 
 ## Projects
 
