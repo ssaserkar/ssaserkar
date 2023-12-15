@@ -1,9 +1,8 @@
 # Hi there, I'm Soham Aserkar! 👋
 Master's Student in Robotics at Worcester Polytechnic Institute, USA.
 
-- 🌱 I'm currently using NLP techniques, including BERT and XLNet, to detect policy toxicity in policy documents and applying deep learning concepts to perform policy analysis.
+- 🌱 I'm currently using NLP techniques to detect subtle ambiguities and nuances in public policy documents that govern engineered systems.
 - 👀 I’m interested in Robotics, NLP, and Systems Engineering.
-- 💞️ I’m looking to collaborate on projects related to my interests!
 - 📫 You can reach me at ssaserkar@wpi.edu!
 
 ## Tech Stack
