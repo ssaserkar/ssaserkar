@@ -2,7 +2,7 @@
 Master's Student in Robotics at Worcester Polytechnic Institute, USA.
 
 - 🌱 I'm currently using NLP techniques, including BERT and XLNet, to detect policy toxicity in policy documents and applying deep learning concepts to perform policy analysis.
-- 👀 I’m interested in Robotics, Control, Perception, NLP, and Computer Vision.
+- 👀 I’m interested in Robotics, NLP, and Systems Engineering.
 - 💞️ I’m looking to collaborate on projects related to my interests!
 - 📫 You can reach me at ssaserkar@wpi.edu!
 
@@ -20,13 +20,13 @@ Master's Student in Robotics at Worcester Polytechnic Institute, USA.
 - COMSOL
 
 ### Hardware Skills
-- Control Systems: Motion Planning, Robot Control, Robot Dynamics
 - Electronics Design: Vector CAN, Altium, Autodesk EAGLE
 - Sensor Fusion: LiDAR, Camera, IMU, GPS
-- Robot Platforms: daVinci Research Kit (dVRK), Autonomous Quadruped, Holonomic Drive
+- Robot Platforms: daVinci Research Kit (dVRK), Autonomous Quadruped and Holonomic Drive
 
 ## Experience
-- Graduate Research Assistant | [SMERL](https://wp.wpi.edu/smerl/) | WPI | Worcester, USA
+- Application Engineering Intern | [Renesas Electronics](https://www.renesas.com/us/en/products/power-power-management/computing-power-vrmimvp/smart-power-stages-digital-multiphase-dcdc-controllers) | Bridgewater, NJ, USA
+- Graduate Research Assistant | [SMERL](https://wp.wpi.edu/smerl/) | WPI | Worcester, MA, USA
 - Associate Engineer | Verification and Validation | [Eaton](http://www.eaton.in/in/en-us/company/about-us/eaton-in-india.html) | Pune, India
 - Electronics Design Intern | [IUCAA](https://www.iucaa.in/en/) | [LIGO](https://www.ligo.org/) | Pune, India
 - Machine Learning Intern | Predictive Maintenance | [Artificial Intelligence Group, C-DAC](https://cdac.in/index.aspx?id=about) | Pune, India
