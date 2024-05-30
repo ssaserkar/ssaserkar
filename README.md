@@ -1,8 +1,7 @@
 # Hi there, I'm Soham Aserkar! 👋
-Master's Student in Robotics at Worcester Polytechnic Institute, USA.
+Graduated Master's Student in Robotics at Worcester Polytechnic Institute, USA.
 
-- 🌱 I'm currently using NLP techniques to detect subtle ambiguities and nuances in public policy documents that govern engineered systems.
-- 👀 I’m interested in Robotics, NLP, and Systems Engineering.
+- 👀 I’m interested in Robotics Software/Hardware Development, Natural Language Processing and Computer Vision.
 - 📫 You can reach me at soham339@gmail.com or ssaserkar@wpi.edu!
 
 ## Tech Stack
@@ -19,9 +18,9 @@ Master's Student in Robotics at Worcester Polytechnic Institute, USA.
 - COMSOL
 
 ### Hardware Skills
-- Electronics Design: Vector CAN, Altium, Autodesk EAGLE
-- Sensor Fusion: LiDAR, Camera, IMU, GPS
-- Robot Platforms: daVinci Research Kit (dVRK), Autonomous Quadruped and Holonomic Drive
+- Hardware Design: LTSpice, NI Multisim, Altium, Autodesk EAGLE
+- Sensor Fusion: LiDAR, RGB and Depth Camera, IMU, GPS
+- Robot Platforms: Franka Panda Emika Arm, daVinci Research Kit (dVRK), Autonomous Quadruped and Holonomic Drive
 
 ## Experience
 - Application Engineering Intern | [Renesas Electronics](https://www.renesas.com/us/en/products/power-power-management/computing-power-vrmimvp/smart-power-stages-digital-multiphase-dcdc-controllers) | Bridgewater, NJ, USA
@@ -29,6 +28,7 @@ Master's Student in Robotics at Worcester Polytechnic Institute, USA.
 - Associate Engineer | Verification and Validation (HIL, PIL, SIL) | [Eaton](http://www.eaton.in/in/en-us/company/about-us/eaton-in-india.html) | Pune, India
 - Electronics Design Intern | [IUCAA](https://www.iucaa.in/en/) | [LIGO](https://www.ligo.org/) | Pune, India
 - Machine Learning Intern | Predictive Maintenance | [Artificial Intelligence Group, C-DAC](https://cdac.in/index.aspx?id=about) | Pune, India
+- Embedded Systems Design and Simulation Intern - Battery Management Systems | A X Design | Pune, India
 
 ## Projects
 
