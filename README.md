@@ -35,6 +35,8 @@ Graduated Master's Student in Robotics at Worcester Polytechnic Institute, USA.
 ### Machine Learning and Robotics
 - **Panoptic Segmentation on 3D LiDAR Point Cloud Data** [[Git]](https://github.com/ssaserkar/Panoptic_Segmentation_RangeNet_MaskRCNN)
 - **Semantic Segmentation-based Automation of dVRK Endoscope** [[Git]](https://github.com/ssaserkar/Endoscope_Automation_Semantic_Segmentation)
+- **ChatterArm: Large Language Model Augmented Vision-based Grasping** [[Git]](https://github.com/ssaserkar/llm-grasp-capstone-docs)
+- **Motion Planning in Unknown Environments with Dynamic Obstacles** [[Git]](https://github.com/ssaserkar/Motion-Planning-in-Dynamic-Enviroment)
 ### Robotics and Electronics Design
 - **Development of a Delta Wing Glider prototype as a payload** | Team Lead | MIT-COE/MIT-SAT
 - **Development of AutoGyro Systems prototype as a science payload** | Electronics Lead | MIT-COE/MIT-SAT 
