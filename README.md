@@ -1,44 +1,36 @@
-# Hi there, I'm Soham Aserkar! 👋
-Graduated Master's Student in Robotics at Worcester Polytechnic Institute, USA.
+# Soham Aserkar
 
-- 👀 I’m interested in Robotics Software/Hardware Development, Natural Language Processing and Computer Vision.
-- 📫 You can reach me at soham339@gmail.com or ssaserkar@wpi.edu!
+I validate the power stages that feed AI processors at [Renesas Electronics](https://www.renesas.com/), and I build software that measures what those processors actually consume.
 
-## Tech Stack
+Most hardware engineers don't write software. Most software engineers don't understand hardware. I do both — specifically where power delivery meets AI compute.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![ROS](https://img.shields.io/badge/-ROS-22314E?logo=ros&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white) ![Vector CAN](https://img.shields.io/badge/-Vector%20CAN-007ACC?logo=vector&logoColor=white) ![Altium](https://img.shields.io/badge/-Altium-FF5733?logo=altium-designer&logoColor=white) ![COMSOL](https://img.shields.io/badge/-COMSOL-ED1C24?logo=comsol&logoColor=white)
+## What I'm Working On
 
-### Software Skills
-- Python3, C/C++
-- TensorFlow, PyTorch
-- ROS/2/Gazebo
-- MATLAB
-- Vector CAN
-- Altium, Autodesk EAGLE
-- COMSOL
+**[PowerLens](https://github.com/ssaserkar/powerlens)** — I built an open-source tool that measures the real energy cost of AI inference on NVIDIA Jetson. It reads the hardware power sensors (INA3221 via sysfs), correlates power with individual inferences, and reports joules per inference — something tegrastats and jtop can't do.
 
-### Hardware Skills
-- Hardware Design: LTSpice, NI Multisim, Altium, Autodesk EAGLE
-- Sensor Fusion: LiDAR, RGB and Depth Camera, IMU, GPS
-- Robot Platforms: Franka Panda Emika Arm, daVinci Research Kit (dVRK), Autonomous Quadruped and Holonomic Drive
+Results from real hardware (Jetson Orin Nano):
+- Small model: 0.010 J/inference at 13.6W
+- Large model: 1.281 J/inference at 35.3W — 128x more energy
+- 25W power mode is more efficient than max performance mode
+- GPU temperature rises 10°C under sustained 150-second load
 
-## Experience
-- Application Engineering Intern | [Renesas Electronics](https://www.renesas.com/us/en/products/power-power-management/computing-power-vrmimvp/smart-power-stages-digital-multiphase-dcdc-controllers) | Bridgewater, NJ, USA
-- Graduate Research Assistant | [SMERL](https://wp.wpi.edu/smerl/) | WPI | Worcester, MA, USA
-- Associate Engineer | Verification and Validation (HIL, PIL, SIL) | [Eaton](http://www.eaton.in/in/en-us/company/about-us/eaton-in-india.html) | Pune, India
-- Electronics Design Intern | [IUCAA](https://www.iucaa.in/en/) | [LIGO](https://www.ligo.org/) | Pune, India
-- Machine Learning Intern | Predictive Maintenance | [Artificial Intelligence Group, C-DAC](https://cdac.in/index.aspx?id=about) | Pune, India
-- Embedded Systems Design and Simulation Intern - Battery Management Systems | A X Design | Pune, India
+63 tests. 7 CLI commands. Validated against tegrastats within 2%.
 
-## Projects
+## Background
 
-### Machine Learning and Robotics
-- **Panoptic Segmentation on 3D LiDAR Point Cloud Data** [[Git]](https://github.com/ssaserkar/Panoptic_Segmentation_RangeNet_MaskRCNN)
-- **Semantic Segmentation-based Automation of dVRK Endoscope** [[Git]](https://github.com/ssaserkar/Endoscope_Automation_Semantic_Segmentation)
-- **ChatterArm: Large Language Model Augmented Vision-based Grasping** [[Git]](https://github.com/ssaserkar/llm-grasp-capstone-docs)
-- **Motion Planning in Unknown Environments with Dynamic Obstacles** [[Git]](https://github.com/ssaserkar/Motion-Planning-in-Dynamic-Enviroment)
-### Robotics and Electronics Design
-- **Development of a Delta Wing Glider prototype as a payload** | Team Lead | MIT-COE/MIT-SAT
-- **Development of AutoGyro Systems prototype as a science payload** | Electronics Lead | MIT-COE/MIT-SAT 
-- **Autonomous Quadruped and 3-wheel Holonomic Drive** | External Mentor | MIT-COE
-- **Autonomous 4 wheel Holonomic Drive** | Electronics Designer | MIT-COE
+- **Application Engineer** — [Renesas Electronics](https://www.renesas.com/) — Power stage validation, multiphase DC-DC controllers, VRM characterization
+- **Graduate Research** — [WPI](https://wp.wpi.edu/smerl/) — Published research on AI-driven policy analysis (LSTM/ESN with attention, F1=0.79)
+- **Hardware Validation** — [Eaton](http://www.eaton.in/) — HIL/PIL/SIL verification
+- **Electronics Design** — [IUCAA / LIGO](https://www.iucaa.in/) — Gravitational wave detector electronics
+
+**MS Robotics** — Worcester Polytechnic Institute
+
+## Open to Collaboration
+
+I'm interested in open-source projects where power hardware meets software — edge AI energy measurement, server power management, BMC firmware, hardware telemetry.
+
+If you're working on something in this space and want to collaborate, or if you're using PowerLens and run into problems, open an issue or reach out directly.
+
+## Contact
+
+**soham339@gmail.com**
