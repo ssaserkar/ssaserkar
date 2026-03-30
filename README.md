@@ -6,13 +6,16 @@ Most hardware engineers don't write software. Most software engineers don't unde
 
 ## What I'm Working On
 
-**[PowerLens](https://github.com/ssaserkar/powerlens)** — I built an open-source tool that measures the real energy cost of AI inference on NVIDIA Jetson. It reads the hardware power sensors (INA3221 via sysfs), correlates power with individual inferences, and reports joules per inference — something tegrastats and jtop can't do.
+**[PowerLens](https://github.com/ssaserkar/powerlens)** — I built an open-source tool that measures the real energy cost of AI inference on NVIDIA Jetson. It reads the hardware power sensors (INA3221 via sysfs), correlates power with individual inferences, and reports millijoules per inference — something tegrastats and jtop can't do.
 
-Results from real hardware (Jetson Orin Nano):
-- Small model: 0.010 J/inference at 13.6W
-- Large model: 1.281 J/inference at 35.3W — 128x more energy
-- 25W power mode is more efficient than max performance mode
-- GPU temperature rises 10°C under sustained 150-second load
+Results from real hardware (Jetson Orin Nano, 5 models, 3 power modes, FP16 TensorRT):
+- MobileNetV2: 10.3 mJ/inference — ResNet-50: 22.6 mJ/inference (2.2× more energy)
+- 25W mode is universally optimal — best energy efficiency across all five models tested
+- Latency varies less than 2% across power modes — you get efficiency for free
+- SoC static power is 34–44% of compute — nearly half the energy keeps the chip alive, not your model
+- FP16 saves 1.1–2.1× energy over FP32 depending on model architecture
+- Batch size 8 is 2× more efficient than batch size 1
+- Thermal steady state at 67.5°C with 18°C headroom under 600-second sustained max load — no throttling
 
 63 tests. 7 CLI commands. Validated against tegrastats within 2%.
 
